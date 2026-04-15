@@ -99,7 +99,7 @@ graph TD
     VectorDB --> |Similar Docs| RetrievalModule
     RetrievalModule --> |Context| Generator
     Generator --> |Stream via SSE| Client
-```
+``` 
 
 ## 📈 Scalability Executed
 
