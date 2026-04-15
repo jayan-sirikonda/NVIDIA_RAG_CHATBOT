@@ -1,0 +1,10 @@
+fastapi[standard]
+pydantic
+pydantic-settings
+openai
+qdrant-client
+redis
+slowapi
+numpy
+tiktoken
+langchain-text-splitters
